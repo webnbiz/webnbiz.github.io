@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Competing with niche with a general topic website
+title: Competing against niche with a general topic website
 published: true
 ---
 
-#SEO tips in malayalam - Competing with niche website
+# SEO tips in malayalam - Competing with niche website
 
 പ്രേത്യേകിച്ച് ടോപ്പിക്ക് ഒന്നും സെലക്ട് ചെയ്തിട്ടില്ലാത്ത ജനറൽ ആയിട്ടുള്ള വെബ്സൈറ്റ്, അല്ലെങ്കിൽ വളരെ ബ്രോഡ് ആയ ടോപ്പിക്ക് ഉള്ള വെബ്സൈറ്റുകാളിൽ ചെയ്യേണ്ട കാര്യമാണിത്.
 

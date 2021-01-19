@@ -4,9 +4,10 @@ title: Competing against niche with a general topic website
 published: true
 ---
 
-# SEO tips in malayalam - Competing with niche website
 
 പ്രേത്യേകിച്ച് ടോപ്പിക്ക് ഒന്നും സെലക്ട് ചെയ്തിട്ടില്ലാത്ത ജനറൽ ആയിട്ടുള്ള വെബ്സൈറ്റ്, അല്ലെങ്കിൽ വളരെ ബ്രോഡ് ആയ ടോപ്പിക്ക് ഉള്ള വെബ്സൈറ്റുകാളിൽ ചെയ്യേണ്ട കാര്യമാണിത്.
+
+# SEO tips in malayalam - Competing with niche website
 
 വളരെ സാമ്യം ഉള്ള, ഒരേ വിഷയത്തെക്കുറിച്ചുള്ള, തമ്മിൽ തമ്മിൽ ബന്ധം ഉള്ള മൂന്നോ അതിൽ കൂടുതലോ പോസ്റ്റ് തയാറാക്കുക. ഈ പേജുകൾ തമ്മിൽ Internal Linking ചെയ്യുക. 
 
@@ -14,11 +15,11 @@ published: true
 
 ഇവിടെ കാണുന്ന 5 വെബ്സൈറ്റുകൾ നോക്കുക.
 
-1.No specific topic - General.
-1.All electrical devices - Authority site.
-1.Renewable energy website - Focused authority site.
-1.Solar energy - Niche
-1.Solar battery - Micro niche
+1. No specific topic - General.
+1. All electrical devices - Authority site.
+1. Renewable energy website - Focused authority site.
+1. Solar energy - Niche
+1. Solar battery - Micro niche
 
 ഇവിടെ 5 വിവിധ E-commerce ബിസിനസ്സുകൾ കാണാം. ഒന്നാമത്തേത് പ്രേത്യേകിച് ഒരു പ്രോഡക്റ്റ് കാറ്റഗറി മാത്രം അല്ല വിൽക്കുന്നത്,. രണ്ടാമത്തെ ബിസിനസ് electrical സാധനങ്ങൾ ആണ് വിൽക്കുന്നത്. മൂന്നാമത്തേത് റിന്യൂവൽ എനർജി ആയ സോളാർ വിൻഡ് അതുമായി ബന്ധപ്പെട്ട എലെക്ട്രിക്കൽ സാധനങ്ങൾ. നാലാമത്തേത് സോളാർ എനർജി പ്രോഡക്റ്റ് മാത്രം വിൽക്കുന്നു, അഞ്ചാമത്തേത് സോളാറിനു വേണ്ടി മാത്രം ഉള്ള ബാറ്ററി വിൽക്കുന്നു. 
 

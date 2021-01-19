@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Veruthe oru malayalam blog. Web and marketing related stuff mostly.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I used to have a youtube channel & website on this same name. Some of the content in this website is imported from old website. 
+
 
 ### Contact me
 

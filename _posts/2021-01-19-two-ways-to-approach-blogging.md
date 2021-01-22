@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2 ways to do blogging.
-published: true
+published: false
 ---
 
 2 mindsets to approach blogging 

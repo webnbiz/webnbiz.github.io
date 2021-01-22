@@ -4,7 +4,7 @@ title: 2 ways to do blogging.
 published: true
 ---
 
-# 2 mindsets to approach blogging 
+2 mindsets to approach blogging 
 
 1. Finding niche/good/low competition topics with best opportunities and focusing on making money.
 1. Doing what you like & creating content related to that.
